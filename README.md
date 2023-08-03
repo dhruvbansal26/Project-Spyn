@@ -1,4 +1,4 @@
-# Project Spyn - Navigation using LEGO Mindstorm EV3
+# Project Spyn - FSE 100 Master Project
 
 ## Introduction
 
@@ -20,4 +20,3 @@ To run this project, you will need the following:
 - Custom-built wheelchair with LEGO Mindstorm EV3 compatibility
 
 Demonstration: https://youtube.com/shorts/9gRt4bUWQqs
-
