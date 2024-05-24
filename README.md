@@ -1,4 +1,4 @@
-# Project Spyn - FSE 100 Master Project
+# Project Spyn
 
 ## Introduction
 
